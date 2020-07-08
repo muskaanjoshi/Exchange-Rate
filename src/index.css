@@ -1,0 +1,14 @@
+body {
+  max-width: 100%;
+  margin: auto;
+  padding: 0;
+  font-family: "Roboto", Montserrat, Open Sans;
+  background-image: url("./bg.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
